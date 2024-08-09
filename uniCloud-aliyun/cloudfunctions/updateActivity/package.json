@@ -1,0 +1,7 @@
+{
+  "name": "updateActivity",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

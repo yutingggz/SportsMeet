@@ -1,0 +1,1 @@
+{"bsonType":"object","required":[],"permission":{"read":false,"create":false,"update":false,"delete":false},"properties":{"_id":{"description":"ID，系统自动生成"},"username":{"description":"用户G num"},"password":{"description":"密码"},"nickname":{"description":"用户昵称"},"totalScore":{"description":"用户总积分"},"role":{"description":"角色权限"}}}
